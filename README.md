@@ -1,7 +1,7 @@
 # git_fun
 ## Description
 
-natedog was here
+natedog was here!
 
 A fun place to play around with all the collaborative features on GitHub
 
