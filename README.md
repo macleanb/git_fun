@@ -1,5 +1,8 @@
+
 # git_fun
 ## Description
+
+natedog was here!
 
 A fun place to play around with all the collaborative features on GitHub
 
@@ -17,4 +20,5 @@ This is Tyler's main branch change
 
 Brett's changes coming in hot!
 
-Hello everybody
+Hello everybody + hello party people!! 
+
